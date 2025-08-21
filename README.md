@@ -84,5 +84,6 @@ Understanding color schemes and typography ensures consistency and accessibility
 - Compnay Information
 - Social Media Links
 - Copyright information
+
 Each information will be designed for reusability and consisitency across the application.
 
