@@ -72,4 +72,17 @@ Understanding color schemes and typography ensures consistency and accessibility
 | Product Owner     | Defines requirements, prioritizes features, represents stakeholders              |
 | Scrum Master      | Facilitates agile processes, removes blockers, organizes meetings                |
 
+## 🧩 UI Component Patterns
+### Planned Components
+####  🔝Navbar
+- Logo
+- Search bar
+- User Navigation
+- Responsive Menu
+#### 🏠 Property Card
+- Property Image
+- Compnay Information
+- Social Media Links
+- Copyright information
+Each information will be designed for reusability and consisitency across the application.
 
